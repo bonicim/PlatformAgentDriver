@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: 9961d20
+_src_path: https://github.com/VOLTTRON/copier-poetry-volttron-agent.git
+author_email: mark.bonicillo@pnnl.gov
+author_fullname: Mark Bonicillo
+author_username: bonicim
+copyright_date: '2022'
+copyright_holder: Mark Bonicillo
+copyright_holder_email: mark.bonicillo@pnnl.gov
+copyright_license: MIT License
+project_description: This is my demo agent.
+project_name: DemoAgent
+python_agent_class_name: DemoAgent
+python_package_command_line_name: demoagent
+python_package_distribution_name: demoagent
+python_package_import_name: demoagent
+repository_name: demoagent
+repository_namespace: bonicim
+repository_provider: github.com
+use_precommit: true

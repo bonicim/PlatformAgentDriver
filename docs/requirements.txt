@@ -1,0 +1,5 @@
+###### Requirements for DemoAgent docs ######
+
+sphinx_rtd_theme
+# sphinx-autobuild
+sphinx==4.4.0
